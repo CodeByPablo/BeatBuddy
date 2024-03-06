@@ -1,1 +1,1 @@
-# BeatBudy
+# BeatBuddy
